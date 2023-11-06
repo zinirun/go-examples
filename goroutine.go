@@ -14,7 +14,7 @@ type OriginData struct {
 	Uuid     string    `json:"uuid"`
 	Date     time.Time `json:"date"`
 	Value    float32   `json:"value"`
-	Location string    `json:"location"` // Latitude/Longitude
+	Location string    `json:"location"`
 }
 
 type WeatherInfo struct {
