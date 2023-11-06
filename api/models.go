@@ -1,6 +1,4 @@
-// models.go
-
-package models
+package api
 
 import "time"
 
